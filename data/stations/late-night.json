@@ -1,0 +1,52 @@
+{
+ "title": "Late night",
+ "description": "Slow things for after dark",
+ "items": [
+  {
+   "id": "8e088412-7e95-4659-bd69-916b31b3f7fa",
+   "kind": "release",
+   "mbid": "8e088412-7e95-4659-bd69-916b31b3f7fa",
+   "title": "Le 6 novembre 1919",
+   "artist": "Eeem [eim]",
+   "date": "2026-11-06",
+   "note": "from the first test",
+   "links": [],
+   "added": "2026-11-14"
+  },
+  {
+   "id": "l-5e3df9875a",
+   "kind": "link",
+   "title": "Global Warming",
+   "artist": "Pitbull",
+   "date": "",
+   "note": "",
+   "links": [
+    "https://open.spotify.com/album/4aawyAB9vmqN3uQ7FjRGTy"
+   ],
+   "added": "2026-11-14"
+  },
+  {
+   "id": "l-5e8f74accd",
+   "kind": "link",
+   "title": "To the One who dreams",
+   "artist": "Ioannis Kleftogiannis",
+   "date": "",
+   "note": "",
+   "links": [
+    "https://ioanniskleftogiannis.bandcamp.com/album/to-the-one-who-dreams"
+   ],
+   "added": "2026-11-14"
+  },
+  {
+   "id": "2f79af02-b8e6-463d-ae71-9e2d6e4c851e",
+   "kind": "release",
+   "mbid": "2f79af02-b8e6-463d-ae71-9e2d6e4c851e",
+   "title": "turn",
+   "artist": "Hilyard",
+   "date": "2026-11-06",
+   "note": "",
+   "links": [],
+   "added": "2026-11-14"
+  }
+ ]
+}
