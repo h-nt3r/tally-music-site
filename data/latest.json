@@ -1,0 +1,1811 @@
+{
+ "built": "2026-11-24T16:30:41Z",
+ "tunings": {
+  "my-tuning": {
+   "name": "My tuning",
+   "releases": [
+    {
+     "id": "0c84c3eb-604f-4381-b17f-b9a87d8d63c4",
+     "title": "I’d Rather Be Here Now",
+     "artist": "1morning",
+     "artist_mbids": [
+      "52992e94-66e0-434c-8325-30a34ee3e9ad"
+     ],
+     "date": "2026-11-12",
+     "type": "EP",
+     "tags": [
+      "acid techno",
+      "ambient",
+      "breakbeat",
+      "electronic",
+      "hardgroove techno",
+      "hip hop",
+      "munich",
+      "techno"
+     ],
+     "source": "musicbrainz",
+     "score": 12,
+     "reasons": [
+      "electronic ×3",
+      "ambient ×3",
+      "techno ×3",
+      "hip hop ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "a8a3277c-fe71-49c8-aca8-2c8ec69f02c3",
+     "title": "Astro",
+     "artist": "Donato Dozzy",
+     "artist_mbids": [
+      "4a2a0d6b-d871-400b-8d61-bf544854bdf6"
+     ],
+     "date": "2026-11-20",
+     "type": "Album",
+     "tags": [
+      "acid",
+      "ambient",
+      "electronic",
+      "experimental",
+      "psychedelic",
+      "techno"
+     ],
+     "source": "listenbrainz",
+     "score": 9,
+     "reasons": [
+      "electronic ×3",
+      "ambient ×3",
+      "techno ×3"
+     ],
+     "is_new": true
+    },
+    {
+     "id": "568afc53-ca81-451d-9c80-3d1fdf791cc7",
+     "title": "Gladiators",
+     "artist": "Van House 現実",
+     "artist_mbids": [
+      "f3fc5181-1c0d-4a7a-aa7b-19033c1a9fb3"
+     ],
+     "date": "2026-11-17",
+     "type": "Album",
+     "tags": [
+      "barber beats",
+      "chillwave",
+      "downtempo",
+      "drum and bass",
+      "electronic",
+      "experimental",
+      "hip hop",
+      "instrumental",
+      "lo-fi",
+      "lo-fi beats",
+      "lo-fi hip hop",
+      "lounge",
+      "vaporwave"
+     ],
+     "source": "musicbrainz",
+     "score": 9,
+     "reasons": [
+      "electronic ×3",
+      "drum and bass ×3",
+      "hip hop ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "348c211b-554f-4488-8a43-ebc53063978b",
+     "title": "A Christmas in Space",
+     "artist": "kmAndras",
+     "artist_mbids": [
+      "bbe310c2-81af-444c-baca-e94adf71fd88"
+     ],
+     "date": "2026-11-20",
+     "type": "EP",
+     "tags": [
+      "ambient",
+      "christmas music",
+      "cinematic",
+      "downtempo",
+      "electronic",
+      "new age",
+      "nostalgic",
+      "retrofuturism",
+      "space music"
+     ],
+     "source": "musicbrainz",
+     "score": 6,
+     "reasons": [
+      "electronic ×3",
+      "ambient ×3"
+     ],
+     "is_new": true
+    },
+    {
+     "id": "188c6eb8-8bb3-4734-b5f9-a84ec67c8600",
+     "title": "Temporary",
+     "artist": "Grand River",
+     "artist_mbids": [
+      "d2565954-b098-4792-bb74-d567262a259e"
+     ],
+     "date": "2026-11-20",
+     "type": "Album",
+     "tags": [
+      "ambient",
+      "drone",
+      "electro",
+      "electronic",
+      "electronica"
+     ],
+     "source": "musicbrainz",
+     "score": 6,
+     "reasons": [
+      "electronic ×3",
+      "ambient ×3"
+     ],
+     "is_new": true
+    },
+    {
+     "id": "3726ea69-0690-4351-ae19-b2b561a5a6a5",
+     "title": "MANIFEST_v0",
+     "artist": "SÍODA",
+     "artist_mbids": [
+      "3f119a66-948c-4024-aa69-02c237cdc201"
+     ],
+     "date": "2026-11-20",
+     "type": "Album",
+     "tags": [
+      "bass",
+      "dubstep",
+      "electro house",
+      "electronic",
+      "experimental",
+      "girl edm",
+      "hyperpop",
+      "progressive house",
+      "techno",
+      "trance"
+     ],
+     "source": "listenbrainz",
+     "score": 6,
+     "reasons": [
+      "electronic ×3",
+      "techno ×3"
+     ],
+     "is_new": true
+    },
+    {
+     "id": "287d1356-7198-416e-9f74-ef4880bbd097",
+     "title": "Brute Limbo",
+     "artist": "ENV(itre)",
+     "artist_mbids": [
+      "c035c1f5-da85-4ac2-9192-c56f95d01062"
+     ],
+     "date": "2026-11-19",
+     "type": "Album",
+     "tags": [
+      "ambient",
+      "electro",
+      "electronic",
+      "electronica",
+      "glitch",
+      "idm"
+     ],
+     "source": "musicbrainz",
+     "score": 6,
+     "reasons": [
+      "electronic ×3",
+      "ambient ×3"
+     ],
+     "is_new": true
+    },
+    {
+     "id": "6e5097bf-f3a4-46bf-9b5f-7f66295c88be",
+     "title": "Winter Drift: Holiday Electronica",
+     "artist": "Jonny Fallout & Time Rival",
+     "artist_mbids": [
+      "7ea6c6b3-1644-470e-b749-597c45d7ebd5",
+      "d8d053b8-f9d3-4b4a-bf54-eb1a22c25010"
+     ],
+     "date": "2026-11-18",
+     "type": "Album",
+     "tags": [
+      "ambient",
+      "chillout",
+      "electronic",
+      "electronica",
+      "retrowave",
+      "synthwave"
+     ],
+     "source": "musicbrainz",
+     "score": 6,
+     "reasons": [
+      "electronic ×3",
+      "ambient ×3"
+     ],
+     "is_new": true
+    },
+    {
+     "id": "3fa255c3-3a4f-4b56-9c30-cc5b47d7bedd",
+     "title": "333",
+     "artist": "Ossyn",
+     "artist_mbids": [
+      "01ecc2f7-5b64-4b23-b3c3-396064590ee9"
+     ],
+     "date": "2026-11-16",
+     "type": "Album",
+     "tags": [
+      "ambient",
+      "backrooms",
+      "cinematic",
+      "dark",
+      "downtempo",
+      "electronic",
+      "experimental",
+      "liminal"
+     ],
+     "source": "musicbrainz",
+     "score": 6,
+     "reasons": [
+      "electronic ×3",
+      "ambient ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "b05d6f18-bc1a-4419-bdce-ce49ba39754b",
+     "title": "Eternidad",
+     "artist": "Maykretch",
+     "artist_mbids": [
+      "2b4b9a0f-0208-4a5c-89ab-0f3ff6cb0f58"
+     ],
+     "date": "2026-11-16",
+     "type": "Album",
+     "tags": [
+      "chillout",
+      "chillwave",
+      "downtempo",
+      "drum and bass",
+      "electronic",
+      "experimental",
+      "instrumental",
+      "vaporwave"
+     ],
+     "source": "musicbrainz",
+     "score": 6,
+     "reasons": [
+      "electronic ×3",
+      "drum and bass ×3"
+     ],
+     "is_new": true
+    },
+    {
+     "id": "bc10e23e-5f9c-4704-bd1d-5adad8049e35",
+     "title": "RECUR://PT.1",
+     "artist": "Various Artists",
+     "artist_mbids": [
+      "89ad4ac3-39f7-470e-963a-56509c546377"
+     ],
+     "date": "2026-11-13",
+     "type": "Album",
+     "tags": [
+      "detroit techno",
+      "electro",
+      "electronic",
+      "techno"
+     ],
+     "source": "musicbrainz",
+     "score": 6,
+     "reasons": [
+      "electronic ×3",
+      "techno ×3"
+     ],
+     "is_new": true
+    },
+    {
+     "id": "d827d87e-eda1-418e-b724-f2412f39d32d",
+     "title": "Agon — Denial",
+     "artist": "LunGao",
+     "artist_mbids": [
+      "86cbfc69-4537-4592-9cda-d8c642daae9b"
+     ],
+     "date": "2026-11-13",
+     "type": "Album",
+     "tags": [
+      "ambient",
+      "electronic",
+      "experimental",
+      "sound art",
+      "synth"
+     ],
+     "source": "musicbrainz",
+     "score": 6,
+     "reasons": [
+      "electronic ×3",
+      "ambient ×3"
+     ],
+     "is_new": true
+    },
+    {
+     "id": "3684d9fb-f7d5-42d8-aa0f-c0e9267f73e1",
+     "title": "¤ Industrial Wasteland ¤",
+     "artist": "Inhum An",
+     "artist_mbids": [
+      "c7b66021-eb5b-4bd7-86ff-64775b6a9905"
+     ],
+     "date": "2026-11-13",
+     "type": "Album",
+     "tags": [
+      "electronic",
+      "experimental",
+      "hardtek",
+      "idm",
+      "industrial",
+      "techno",
+      "wasteland"
+     ],
+     "source": "musicbrainz",
+     "score": 6,
+     "reasons": [
+      "electronic ×3",
+      "techno ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "92d36fe1-7919-4c3c-a43a-df3fa0df5d20",
+     "title": "All Light Is Golden in the Eyes of Oxen (For Clayton Counts)",
+     "artist": "Hakita",
+     "artist_mbids": [
+      "e47e4e6f-5200-442c-80d1-a298647b5cfb"
+     ],
+     "date": "2026-11-22",
+     "type": "EP",
+     "tags": [
+      "abstract",
+      "ambient",
+      "atmospheric",
+      "bull of heaven",
+      "doom metal",
+      "drone",
+      "experimental",
+      "experimental rock",
+      "finland",
+      "jam band",
+      "longform",
+      "post-metal",
+      "post-rock"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "ambient ×3"
+     ],
+     "is_new": true
+    },
+    {
+     "id": "8d0aff75-9acb-4a7c-8ae7-fe751a5687d1",
+     "title": "The Forbidden Planet",
+     "artist": "Tomorrow Comes The Harvest",
+     "artist_mbids": [
+      "2846dbad-8690-4059-9602-9e287ad37904"
+     ],
+     "date": "2026-11-20",
+     "type": "Album",
+     "tags": [
+      "electronic",
+      "instrumental",
+      "jazz"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "electronic ×3"
+     ],
+     "is_new": true
+    },
+    {
+     "id": "8c77ab39-db4a-4195-a92d-1b8b23b6cfbb",
+     "title": "Fatebringer",
+     "artist": "Night Rider",
+     "artist_mbids": [
+      "d7f7769a-1aea-4bba-bb6d-2663ee14ed81"
+     ],
+     "date": "2026-11-20",
+     "type": "Album",
+     "tags": [
+      "alternative metal",
+      "electronic",
+      "metal",
+      "metalcore",
+      "progressive metal",
+      "rock",
+      "synthwave",
+      "thall"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "electronic ×3"
+     ],
+     "is_new": true
+    },
+    {
+     "id": "7ebcbba5-fd86-4323-b105-101e8da8dfc2",
+     "title": "Surroundings",
+     "artist": "Ian Hawgood & Jason van Wyk",
+     "artist_mbids": [
+      "d457c38f-aff6-4e0d-98a1-3f302274a0b5",
+      "1e83098a-17fd-47e9-b4cb-24edeabaec69"
+     ],
+     "date": "2026-11-20",
+     "type": "Album",
+     "tags": [
+      "ambient"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "ambient ×3"
+     ],
+     "is_new": true
+    },
+    {
+     "id": "811cc80b-b2ae-4361-82aa-6e687fdebd73",
+     "title": "Anticipation of the Night",
+     "artist": "Government Alpha & Vanity Productions",
+     "artist_mbids": [
+      "68481536-19e7-4aa0-a282-9d5d96fb9197",
+      "1e0bed15-7449-4d00-9532-4319018d7818"
+     ],
+     "date": "2026-11-20",
+     "type": "Album",
+     "tags": [
+      "ambient"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "ambient ×3"
+     ],
+     "is_new": true
+    },
+    {
+     "id": "b88274ab-2be8-40d8-98fe-ccc7daabd9cd",
+     "title": "Otis",
+     "artist": "Conway the Machine",
+     "artist_mbids": [
+      "a633ebb5-b81a-400f-b5df-0e625ea81fe9"
+     ],
+     "date": "2026-11-20",
+     "type": "Album",
+     "tags": [
+      "hip hop"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "hip hop ×3"
+     ],
+     "is_new": true
+    },
+    {
+     "id": "30777cae-2114-47e2-adb5-79a2dec10d27",
+     "title": "Overwhelmed",
+     "artist": "Rafolino",
+     "artist_mbids": [
+      "2265e557-e1e2-4b6b-b2e4-efa519dc8d52"
+     ],
+     "date": "2026-11-20",
+     "type": "EP",
+     "tags": [
+      "chillout",
+      "hip hop",
+      "hiphop",
+      "rap",
+      "singer-songwriter",
+      "slowcore"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "hip hop ×3"
+     ],
+     "is_new": true
+    },
+    {
+     "id": "0f11df52-46a3-44ba-97be-1d777057aa35",
+     "title": "HIMBO",
+     "artist": "Bisexual Lighting",
+     "artist_mbids": [
+      "8ecb838d-e608-4ad6-8631-91d1e6d3548b"
+     ],
+     "date": "2026-11-20",
+     "type": "Album",
+     "tags": [
+      "electronic",
+      "experimental hip hop",
+      "future bass",
+      "hyperpop",
+      "hyperrap",
+      "pop"
+     ],
+     "source": "listenbrainz",
+     "score": 3,
+     "reasons": [
+      "electronic ×3"
+     ],
+     "is_new": true
+    },
+    {
+     "id": "8b99ccc3-a55a-4697-89e5-e02b22baa5e9",
+     "title": "Follow Me",
+     "artist": "BYOTO",
+     "artist_mbids": [
+      "4a0ae649-5900-467a-9676-695dc47d4cd7"
+     ],
+     "date": "2026-11-20",
+     "type": "",
+     "tags": [
+      "electro",
+      "electronic"
+     ],
+     "source": "listenbrainz",
+     "score": 3,
+     "reasons": [
+      "electronic ×3"
+     ],
+     "is_new": true
+    },
+    {
+     "id": "b3eb7f1f-390f-401c-8747-2cf0179b1488",
+     "title": "Sàmi Love Call",
+     "artist": "Greg Foat",
+     "artist_mbids": [
+      "7c86ac0b-81af-42fb-b49a-28d3eee4663c"
+     ],
+     "date": "2026-11-20",
+     "type": "Album",
+     "tags": [
+      "electronic",
+      "folk",
+      "jazz",
+      "soul jazz"
+     ],
+     "source": "listenbrainz",
+     "score": 3,
+     "reasons": [
+      "electronic ×3"
+     ],
+     "is_new": true
+    },
+    {
+     "id": "dbb5e33b-8d93-4ed9-b721-8ff31ca852d2",
+     "title": "Feed Back",
+     "artist": "M.R.K.R.",
+     "artist_mbids": [
+      "5774f505-3ecd-43d7-bbcb-3c8719305c25"
+     ],
+     "date": "2026-11-20",
+     "type": "EP",
+     "tags": [
+      "acid techno",
+      "electro",
+      "techno"
+     ],
+     "source": "listenbrainz",
+     "score": 3,
+     "reasons": [
+      "techno ×3"
+     ],
+     "is_new": true
+    },
+    {
+     "id": "b942e690-bcc2-4bb2-a1b7-a779b20ad406",
+     "title": "Grand Theft Auto VI: The Album",
+     "artist": "Various Artists",
+     "artist_mbids": [
+      "89ad4ac3-39f7-470e-963a-56509c546377"
+     ],
+     "date": "2026-11-19",
+     "type": "Album",
+     "tags": [
+      "double album",
+      "hip hop",
+      "pop",
+      "soundtrack",
+      "soundtracks",
+      "stage & screen",
+      "video game music"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "hip hop ×3"
+     ],
+     "is_new": true
+    },
+    {
+     "id": "992b2364-77d2-4b36-9701-18390b9cd711",
+     "title": "NO PEACE",
+     "artist": "user384902340",
+     "artist_mbids": [
+      "cfa0e221-4717-4281-bff3-46c88d45bf93"
+     ],
+     "date": "2026-11-19",
+     "type": "Album",
+     "tags": [
+      "hip hop",
+      "rage",
+      "underground hip hop"
+     ],
+     "source": "listenbrainz",
+     "score": 3,
+     "reasons": [
+      "hip hop ×3"
+     ],
+     "is_new": true
+    },
+    {
+     "id": "e4c24142-6da8-440e-aafd-aaa4ee9d4f5c",
+     "title": "Starkare nu",
+     "artist": "Färska Prinzen",
+     "artist_mbids": [
+      "9f060cef-7d6e-4fbe-ab4a-ff7818be725b"
+     ],
+     "date": "2026-11-18",
+     "type": "Album",
+     "tags": [
+      "hip hop"
+     ],
+     "source": "listenbrainz",
+     "score": 3,
+     "reasons": [
+      "hip hop ×3"
+     ],
+     "is_new": true
+    },
+    {
+     "id": "697c1417-f1b1-4142-be14-237b1d5af033",
+     "title": "the lighthouse II",
+     "artist": "inertia.",
+     "artist_mbids": [
+      "4ba2eac8-39f1-458a-ad41-713f8c0eb22b"
+     ],
+     "date": "2026-11-18",
+     "type": "Album",
+     "tags": [
+      "ambient",
+      "lofi girl"
+     ],
+     "source": "listenbrainz",
+     "score": 3,
+     "reasons": [
+      "ambient ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "986f13a5-e505-4ceb-b647-6967c222e64b",
+     "title": "Our Blood Is Not Enough",
+     "artist": "The Dead Broken Heart",
+     "artist_mbids": [
+      "4180afb0-b548-4355-a1ad-eb1bf9e3e795"
+     ],
+     "date": "2026-11-17",
+     "type": "EP",
+     "tags": [
+      "aggrotech",
+      "alternative",
+      "dark electro",
+      "dark electronic",
+      "darksynth",
+      "ebm",
+      "electro",
+      "electro-industrial",
+      "electronic",
+      "electronic body music",
+      "harsh ebm",
+      "harsh electro",
+      "industrial",
+      "industrial dance",
+      "industrial techno",
+      "post-industrial",
+      "power noise",
+      "rhythmic noise"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "electronic ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "02417721-a929-4bf8-93fc-36a07f174dc4",
+     "title": "Life Love & Death",
+     "artist": "Jaliet Caprana",
+     "artist_mbids": [
+      "9e19b568-4213-4117-84c5-ce15f6a5914d"
+     ],
+     "date": "2026-11-16",
+     "type": "Album",
+     "tags": [
+      "hip hop",
+      "pop rap"
+     ],
+     "source": "listenbrainz",
+     "score": 3,
+     "reasons": [
+      "hip hop ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "7ce7f3c2-d2c0-4f08-88bc-cff03ec013e2",
+     "title": "My Inspiration",
+     "artist": "Spin Fidelity",
+     "artist_mbids": [
+      "65902ef0-ab83-4962-b6b5-8dab649b8825"
+     ],
+     "date": "2026-11-15",
+     "type": "EP",
+     "tags": [
+      "acid house",
+      "detroit house",
+      "detroit techno",
+      "electro",
+      "electronic"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "electronic ×3"
+     ],
+     "is_new": true
+    },
+    {
+     "id": "1b1433c2-f45c-465b-b05c-bfacd41362a4",
+     "title": "ANOTHERSIDE -Eternal Night-",
+     "artist": "Resonant Union",
+     "artist_mbids": [
+      "1fcfc89e-d830-4050-b99e-715350011177"
+     ],
+     "date": "2026-11-15",
+     "type": "Album",
+     "tags": [
+      "deltarune",
+      "deltarune fan album",
+      "electronic",
+      "electronic rock",
+      "fan album",
+      "fusion",
+      "jazz",
+      "rock",
+      "video game music"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "electronic ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "6799c19a-6882-4a6e-9d44-e8ddf859443e",
+     "title": "˖° ❀Ｃｌｅａｒ ‧☀️‧ Ｓｋｉｅｓ˖𓍢ִ!𑁍ּ 𓇢𓆸",
+     "artist": "memorykeeper7",
+     "artist_mbids": [
+      "2e7674fd-a533-49c0-876c-29dccf1ce27d"
+     ],
+     "date": "2026-11-15",
+     "type": "Album",
+     "tags": [
+      "ambient",
+      "experimental",
+      "naturewave",
+      "new age",
+      "post-everything",
+      "slushwave",
+      "solarpunk",
+      "vaporwave"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "ambient ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "b8c66f3f-16b9-4670-b346-a87c6a233755",
+     "title": "OTHERSIDE -Purest Light-",
+     "artist": "Resonant Union",
+     "artist_mbids": [
+      "1fcfc89e-d830-4050-b99e-715350011177"
+     ],
+     "date": "2026-11-14",
+     "type": "Album",
+     "tags": [
+      "deltarune",
+      "deltarune fan album",
+      "electronic",
+      "electronic rock",
+      "fan album",
+      "fusion",
+      "jazz",
+      "rock",
+      "video game music"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "electronic ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "f303d9bc-6824-4c0d-a342-15667d146bc5",
+     "title": "Free Fall",
+     "artist": "Message Me Later",
+     "artist_mbids": [
+      "bda7fe73-0d35-42ee-bcc6-307cea4fd5af"
+     ],
+     "date": "2026-11-14",
+     "type": "EP",
+     "tags": [
+      "barber beats",
+      "downtempo",
+      "electronic",
+      "electronica",
+      "trip hop",
+      "vaporwave"
+     ],
+     "source": "listenbrainz",
+     "score": 3,
+     "reasons": [
+      "electronic ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "053a0d38-92a9-4708-a140-e75b090a9724",
+     "title": "Coffee Buns Original Soundtrack",
+     "artist": "Will Bowerman",
+     "artist_mbids": [
+      "da9d1ad7-c096-42bb-9dd2-f1d63119e8c3"
+     ],
+     "date": "2026-11-14",
+     "type": "Album",
+     "tags": [
+      "hip hop",
+      "jazz",
+      "rock",
+      "soundtrack"
+     ],
+     "source": "listenbrainz",
+     "score": 3,
+     "reasons": [
+      "hip hop ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "476610f4-6939-4f4a-b978-7f82cbeea22a",
+     "title": "SANCTUARY",
+     "artist": "Ravenscoon",
+     "artist_mbids": [
+      "4bce31bc-f96b-4545-b363-fa3c8f43b5cc"
+     ],
+     "date": "2026-11-13",
+     "type": "Album",
+     "tags": [
+      "electro",
+      "electronic"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "electronic ×3"
+     ],
+     "is_new": true
+    },
+    {
+     "id": "ba960708-8bc3-4158-a4a9-50c4e745a0d9",
+     "title": "Usurper",
+     "artist": "Kingdom of Giants",
+     "artist_mbids": [
+      "a6683d1e-855f-4bff-9cc4-9e45a921ef49"
+     ],
+     "date": "2026-11-13",
+     "type": "Album",
+     "tags": [
+      "electronic",
+      "electronicore",
+      "metal",
+      "metalcore",
+      "post-hardcore",
+      "progressive metalcore",
+      "rock"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "electronic ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "20d1ff34-4d3b-4293-b894-b856d19140c8",
+     "title": "Bentayga Genesis",
+     "artist": "Boldy James",
+     "artist_mbids": [
+      "a59a3fdd-4bcc-4c61-b4c5-7d0c1341f2e2"
+     ],
+     "date": "2026-11-13",
+     "type": "Album",
+     "tags": [
+      "hip hop"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "hip hop ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "a94850eb-d59d-4598-afee-8b97dafdd897",
+     "title": "MPASTARD0S",
+     "artist": "ΛΕΞ",
+     "artist_mbids": [
+      "45b56b98-865c-4a97-ad92-37f91572b6c5"
+     ],
+     "date": "2026-11-13",
+     "type": "Album",
+     "tags": [
+      "hip hop"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "hip hop ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "10614a12-653c-4778-a0ba-2a3d064341f9",
+     "title": "A Friend of Ours 2",
+     "artist": "Benny the Butcher",
+     "artist_mbids": [
+      "8ffb6b8e-3933-4f93-b315-8f5293b1b350"
+     ],
+     "date": "2026-11-13",
+     "type": "Album",
+     "tags": [
+      "hip hop"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "hip hop ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "5b88c10e-d066-4570-96fb-e0f72b60c32d",
+     "title": "HEELMATIC",
+     "artist": "Westside Gunn",
+     "artist_mbids": [
+      "9f42ba3d-3cfc-499c-ba16-7226f56b622f"
+     ],
+     "date": "2026-11-13",
+     "type": "Album",
+     "tags": [
+      "hip hop"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "hip hop ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "3a999c03-e959-4908-be9a-abfd1619a8de",
+     "title": "Trouble Mountain",
+     "artist": "Aesop Rock × Blockhead",
+     "artist_mbids": [
+      "aba64937-3334-4c65-90a1-4e6b9d4d7ada",
+      "3bd76ebe-c7dc-47bd-a8af-9e46d2a4f782"
+     ],
+     "date": "2026-11-13",
+     "type": "Album",
+     "tags": [
+      "east coast hip hop",
+      "hip hop"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "hip hop ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "f5e3f5a3-c761-412c-894b-2756a2842cb7",
+     "title": "Scattered Poems from Nature, Vol. 3",
+     "artist": "Center of Attention",
+     "artist_mbids": [
+      "33bb3e4f-2f2d-423c-b100-88643d56c5a2"
+     ],
+     "date": "2026-11-13",
+     "type": "EP",
+     "tags": [
+      "ambient",
+      "new age",
+      "organic ambient"
+     ],
+     "source": "listenbrainz",
+     "score": 3,
+     "reasons": [
+      "ambient ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "e44de1c6-9efe-47ff-83f2-9269932497cf",
+     "title": "GLOBAL CUTS",
+     "artist": "CRRDR",
+     "artist_mbids": [
+      "85ecc43c-62a8-4255-8939-b6080d2d695c"
+     ],
+     "date": "2026-11-13",
+     "type": "Album",
+     "tags": [
+      "electronic"
+     ],
+     "source": "listenbrainz",
+     "score": 3,
+     "reasons": [
+      "electronic ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "d7d8801c-cb18-47ce-a3cd-f4950478feae",
+     "title": "Coexist",
+     "artist": "Lucidbloom",
+     "artist_mbids": [
+      "878df54f-c816-4f1b-b0b7-28dd7464f76e"
+     ],
+     "date": "2026-11-13",
+     "type": "EP",
+     "tags": [
+      "dream pop",
+      "electronic",
+      "indie rock"
+     ],
+     "source": "listenbrainz",
+     "score": 3,
+     "reasons": [
+      "electronic ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "abe0abb2-af10-4c5c-bce8-14c67c4beea8",
+     "title": "FRIDAY THE 13TH, 2026",
+     "artist": "Neon Retro Compilations",
+     "artist_mbids": [
+      "89ad4ac3-39f7-470e-963a-56509c546377"
+     ],
+     "date": "2026-11-13",
+     "type": "Album",
+     "tags": [
+      "80s",
+      "darksynth",
+      "darksynthwave",
+      "darkwave",
+      "electronic",
+      "horrorsynth",
+      "newretrowave",
+      "retroelectro",
+      "retrowave",
+      "synthwave",
+      "vhs"
+     ],
+     "source": "listenbrainz",
+     "score": 3,
+     "reasons": [
+      "electronic ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "d2c945ff-820f-4118-bc06-b0101b4400b5",
+     "title": "A Way Through",
+     "artist": "Retland",
+     "artist_mbids": [
+      "9143a4fe-9396-46af-9a2a-e555c1c329d1"
+     ],
+     "date": "2026-11-13",
+     "type": "EP",
+     "tags": [
+      "ambient",
+      "new age",
+      "organic ambient"
+     ],
+     "source": "listenbrainz",
+     "score": 3,
+     "reasons": [
+      "ambient ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "e2a1a23f-a0fa-4852-80a4-46574bd81f25",
+     "title": "Critical Presents: Binary Vol.31",
+     "artist": "Rotate",
+     "artist_mbids": [
+      "16d3358e-c729-4a4f-ac7b-313087729d02"
+     ],
+     "date": "2026-11-13",
+     "type": "EP",
+     "tags": [
+      "electronic"
+     ],
+     "source": "listenbrainz",
+     "score": 3,
+     "reasons": [
+      "electronic ×3"
+     ],
+     "is_new": true
+    },
+    {
+     "id": "522165fd-93d5-4fdb-bc4f-ec2c8a67d264",
+     "title": "Contingency Protocol",
+     "artist": "Technetium",
+     "artist_mbids": [
+      "7ea6dabf-a389-4d6b-b036-79227832a828"
+     ],
+     "date": "2026-11-13",
+     "type": "Album",
+     "tags": [
+      "contingency protocol",
+      "digital fusion",
+      "lorilee technetium",
+      "soundtrack",
+      "technetium",
+      "technetium music",
+      "techno",
+      "trance"
+     ],
+     "source": "listenbrainz",
+     "score": 3,
+     "reasons": [
+      "techno ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "aac7f17f-f7dc-41d3-8d85-055e84426eca",
+     "title": "Hanzom 100 Pt.1",
+     "artist": "Various Artists",
+     "artist_mbids": [
+      "89ad4ac3-39f7-470e-963a-56509c546377"
+     ],
+     "date": "2026-11-13",
+     "type": "EP",
+     "tags": [
+      "drum and bass",
+      "neurofunk"
+     ],
+     "source": "listenbrainz",
+     "score": 3,
+     "reasons": [
+      "drum and bass ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "520eb7d4-65ce-488e-ac66-0cf5efe83e75",
+     "title": "Accelerate",
+     "artist": "HEXSYSTEM",
+     "artist_mbids": [
+      "b5ad6760-a138-4ca7-a807-4850b44e1802"
+     ],
+     "date": "2026-11-12",
+     "type": "EP",
+     "tags": [
+      "dark ambient",
+      "downtempo",
+      "electronic"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "electronic ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "2133f99e-22e7-48c9-a818-914265089e51",
+     "title": "Infinite EP",
+     "artist": "Eminem",
+     "artist_mbids": [
+      "b95ce3ff-3d05-4e87-9e01-c97b66af13d4"
+     ],
+     "date": "2026-11-12",
+     "type": "EP",
+     "tags": [
+      "hip hop"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "hip hop ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "6a6c8325-ce15-433e-bfda-131f74ef1888",
+     "title": "CERTIFIED HITz 11 (EastMix Edition)",
+     "artist": "DJ BAD THA PROBLEM & Dave East",
+     "artist_mbids": [
+      "453aae5b-1246-433a-a918-379c0389e6b5",
+      "21471bf5-567a-4e6a-b264-2514618d343f"
+     ],
+     "date": "2026-11-12",
+     "type": "Album",
+     "tags": [
+      "certified hitz",
+      "certified hitz 11",
+      "certified hitz 11 eastmix edition",
+      "certified hitz music group",
+      "dj bad tha problem",
+      "east coast hip hop",
+      "hip hop",
+      "rap"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "hip hop ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "d29904de-60d6-4961-bc16-d0c3bd118a3a",
+     "title": "Echo",
+     "artist": "Ecco2K",
+     "artist_mbids": [
+      "66ab36ce-8f58-46fb-9284-396c2c90ecbd"
+     ],
+     "date": "2026-11-12",
+     "type": "Album",
+     "tags": [
+      "electro",
+      "electronic"
+     ],
+     "source": "listenbrainz",
+     "score": 3,
+     "reasons": [
+      "electronic ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "3e84edea-bbb9-4d41-a630-e4b34f0a0ff6",
+     "title": "VOILA VOL.1",
+     "artist": "Konieur",
+     "artist_mbids": [
+      "840a10af-137f-44ab-8253-d37e27ed8a88"
+     ],
+     "date": "2026-11-12",
+     "type": "EP",
+     "tags": [
+      "hip hop"
+     ],
+     "source": "listenbrainz",
+     "score": 3,
+     "reasons": [
+      "hip hop ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "fc67df16-1ada-4d54-b69d-c48c51554b20",
+     "title": "The Notes You Don't Play",
+     "artist": "Pool Plants",
+     "artist_mbids": [
+      "7794db3a-f1f3-466e-b3ae-2c4a2a399c05"
+     ],
+     "date": "2026-11-12",
+     "type": "",
+     "tags": [
+      "anime",
+      "broken transmission",
+      "cowboy bebop",
+      "electronic",
+      "signalwave",
+      "vaporwave"
+     ],
+     "source": "listenbrainz",
+     "score": 3,
+     "reasons": [
+      "electronic ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "a0ba042e-15e9-4fef-a2d1-e53c7689db35",
+     "title": "Phase",
+     "artist": "Printy",
+     "artist_mbids": [
+      "30243d77-977f-4138-8008-d503dd014d17"
+     ],
+     "date": "2026-11-12",
+     "type": "Album",
+     "tags": [
+      "ambient"
+     ],
+     "source": "listenbrainz",
+     "score": 3,
+     "reasons": [
+      "ambient ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "bae90e87-eac6-43ab-abee-d7acc421c0ad",
+     "title": "Liquicity × Chillhop Music",
+     "artist": "Various Artists",
+     "artist_mbids": [
+      "89ad4ac3-39f7-470e-963a-56509c546377"
+     ],
+     "date": "2026-11-12",
+     "type": "Album",
+     "tags": [
+      "chillhop",
+      "chillhop music",
+      "dnb",
+      "drum and bass",
+      "liquicity",
+      "liquid drum and bass",
+      "lofi",
+      "lo-fi hip hop",
+      "remix"
+     ],
+     "source": "listenbrainz",
+     "score": 3,
+     "reasons": [
+      "drum and bass ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "12044282-3892-4bba-bc7e-084af841fc10",
+     "title": "Snakes & Ladders",
+     "artist": "Armand Hammer",
+     "artist_mbids": [
+      "167a6f86-2c26-43fe-82f0-e4c8a39ea490"
+     ],
+     "date": "2026-11-11",
+     "type": "Album",
+     "tags": [
+      "experimental hip hop",
+      "hip hop"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "hip hop ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "6df62e06-2631-433e-bbb5-7931e8659a7d",
+     "title": "A place built for secrets",
+     "artist": "Infinity Frequencies",
+     "artist_mbids": [
+      "80c29427-3fdf-47e4-a4a4-ea180d8c9072"
+     ],
+     "date": "2026-11-11",
+     "type": "Album",
+     "tags": [
+      "ambient",
+      "computer gaze",
+      "obsolete technology"
+     ],
+     "source": "listenbrainz",
+     "score": 3,
+     "reasons": [
+      "ambient ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "6f1010e3-60f8-4fc5-b70b-4cdf2ffc3e7a",
+     "title": "The Multiverses of Sumas",
+     "artist": "klouded & sno",
+     "artist_mbids": [
+      "0747fbeb-51b8-4207-a751-caa2b3aa6a9a",
+      "a9a2fce5-0930-4533-9cff-714f1a832a88"
+     ],
+     "date": "2026-11-11",
+     "type": "Album",
+     "tags": [
+      "hip hop",
+      "pop"
+     ],
+     "source": "listenbrainz",
+     "score": 3,
+     "reasons": [
+      "hip hop ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "60684369-70f3-4d78-9380-112b4fb200d6",
+     "title": "Snarl EP",
+     "artist": "Sublimar",
+     "artist_mbids": [
+      "ec95cbd2-8f8c-4180-a270-8613f87a6988"
+     ],
+     "date": "2026-11-11",
+     "type": "EP",
+     "tags": [
+      "dance",
+      "techno"
+     ],
+     "source": "listenbrainz",
+     "score": 3,
+     "reasons": [
+      "techno ×3"
+     ],
+     "is_new": true
+    },
+    {
+     "id": "c0fbac6e-535e-499a-a4c2-87b7f2732676",
+     "title": "dalmatinski snovi",
+     "artist": "zavodnik",
+     "artist_mbids": [
+      "3b2692e5-1523-475e-9600-2abb9b2121b7"
+     ],
+     "date": "2026-11-10",
+     "type": "Album",
+     "tags": [
+      "chillwave",
+      "electronic",
+      "experimental",
+      "signalwave",
+      "transmission",
+      "vaporwave",
+      "yugoslavia"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "electronic ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "04314537-c5a0-4668-b0e9-4745322e3ec4",
+     "title": "S.W.I.S.H.",
+     "artist": "LNGSHOT",
+     "artist_mbids": [
+      "31e181a5-a927-4e9a-b97b-301002ddd9e0"
+     ],
+     "date": "2026-11-10",
+     "type": "EP",
+     "tags": [
+      "dance",
+      "hip hop",
+      "r&b",
+      "rap",
+      "soul"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "hip hop ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "53eaac4d-6325-466d-84f8-4cd6ba57a386",
+     "title": "Una frágil burbuja",
+     "artist": "Señales de vida",
+     "artist_mbids": [
+      "e84118a5-72e4-4a3f-a031-575040190046"
+     ],
+     "date": "2026-11-10",
+     "type": "Album",
+     "tags": [
+      "ambient",
+      "drone",
+      "minimalism"
+     ],
+     "source": "listenbrainz",
+     "score": 3,
+     "reasons": [
+      "ambient ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "98bf6780-f532-4189-810a-047fdcada6f4",
+     "title": "Art Book Two",
+     "artist": "Johnny Spykes",
+     "artist_mbids": [
+      "6d9d7885-4ea7-4f1d-ae42-d2dc93cffff6"
+     ],
+     "date": "2026",
+     "type": "Album",
+     "tags": [
+      "electronic",
+      "noise",
+      "experimental"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "electronic ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "103b1980-a93f-431b-8b1d-117bddad18d9",
+     "title": "Uxury",
+     "artist": "Uxury",
+     "artist_mbids": [
+      "a3d82dcd-3429-4141-b1d5-98b08b965d31"
+     ],
+     "date": "2026",
+     "type": "Album",
+     "tags": [
+      "electronic",
+      "noise",
+      "abstract"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "electronic ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "bf502636-c805-4d79-a376-108f202d42fe",
+     "title": "Plays World Hits",
+     "artist": "Michiel van der Kuy",
+     "artist_mbids": [
+      "aa1fdaa3-1673-47c6-92b6-11cbdf6e20f3"
+     ],
+     "date": "2026",
+     "type": "Album",
+     "tags": [
+      "electronic",
+      "synth-pop",
+      "euro-disco"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "electronic ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "b7793284-1fad-4724-941f-20245832330b",
+     "title": "Soft Drink",
+     "artist": "Helbert Di Maggio",
+     "artist_mbids": [
+      "56c42666-fec4-4bec-ab11-775125b39a00"
+     ],
+     "date": "2026",
+     "type": "Album",
+     "tags": [
+      "electronic",
+      "instrumental",
+      "relaxing",
+      "uplifting",
+      "calm",
+      "happy",
+      "bright",
+      "playful",
+      "melodic."
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "electronic ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "d41f3f8c-9209-4a58-a598-cf3f882258e3",
+     "title": "We Gettin’ Jiggy!",
+     "artist": "Rebel Of The Night &JACPLOW",
+     "artist_mbids": [
+      "2582f126-bdf5-4ae5-a1e4-ee58c6e1796a",
+      "24a630a1-e8ca-4e9f-9305-9f1b2006ef5f"
+     ],
+     "date": "2026",
+     "type": "Album",
+     "tags": [
+      "edm",
+      "hardstyle",
+      "jumpstyle",
+      "trap edm"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "edm ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "f0e67f02-7cc2-49b0-80a8-80ead4158c4a",
+     "title": "Live in München 2026",
+     "artist": "Hysteric H",
+     "artist_mbids": [
+      "a097eaa3-5a8b-4b10-ae49-d93865e23b2e"
+     ],
+     "date": "2026",
+     "type": "Album",
+     "tags": [
+      "edm",
+      "jumpstyle"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "edm ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "26c61fe5-dfd6-4016-b82c-59370df92f22",
+     "title": "The Mini Mixes!",
+     "artist": "XDY",
+     "artist_mbids": [
+      "2582f126-bdf5-4ae5-a1e4-ee58c6e1796a"
+     ],
+     "date": "2026",
+     "type": "Album",
+     "tags": [
+      "techno",
+      "electronica",
+      "jumpstyle",
+      "euphoric hardstyle"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "techno ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "43e1a44b-0e96-494f-87b9-8f4f69db63e9",
+     "title": "Eclesiastes",
+     "artist": "Vidal Lara",
+     "artist_mbids": [
+      "be4f5496-af0d-4867-8ebc-8dd568e173a8"
+     ],
+     "date": "2026",
+     "type": "Album",
+     "tags": [
+      "hip hop"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "hip hop ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "03d88c06-85a6-44c7-84d8-1f8d3aeb42e0",
+     "title": "Cuervos",
+     "artist": "Vidal Lara",
+     "artist_mbids": [
+      "be4f5496-af0d-4867-8ebc-8dd568e173a8"
+     ],
+     "date": "2026",
+     "type": "Album",
+     "tags": [
+      "hip hop"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "hip hop ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "efebb5b5-4f06-41c8-adfa-c2c1de05ef69",
+     "title": "Donde No Llega La Luz",
+     "artist": "Vidal Lara",
+     "artist_mbids": [
+      "be4f5496-af0d-4867-8ebc-8dd568e173a8"
+     ],
+     "date": "2026",
+     "type": "Album",
+     "tags": [
+      "hip hop"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "hip hop ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "9d45e244-3cda-4b44-9d18-b8fee8f36100",
+     "title": "Naci Roto",
+     "artist": "Vidal Lara",
+     "artist_mbids": [
+      "be4f5496-af0d-4867-8ebc-8dd568e173a8"
+     ],
+     "date": "2026",
+     "type": "Album",
+     "tags": [
+      "hip hop"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "hip hop ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "1b949b3d-f72d-4448-a74e-97e04db611f0",
+     "title": "Reflejo Roto",
+     "artist": "Vidal Lara",
+     "artist_mbids": [
+      "be4f5496-af0d-4867-8ebc-8dd568e173a8"
+     ],
+     "date": "2026",
+     "type": "Album",
+     "tags": [
+      "hip hop"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "hip hop ×3"
+     ],
+     "is_new": false
+    },
+    {
+     "id": "99c8464b-8bbc-4300-a35a-fea11d38ae4f",
+     "title": "Timeless",
+     "artist": "Dezert FlyBoi",
+     "artist_mbids": [
+      "ad26178a-5f5b-42d3-89c6-b8d0a6c43d7a"
+     ],
+     "date": "2026",
+     "type": "Album",
+     "tags": [
+      "rap",
+      "hip hop"
+     ],
+     "source": "musicbrainz",
+     "score": 3,
+     "reasons": [
+      "hip hop ×3"
+     ],
+     "is_new": true
+    }
+   ],
+   "posts": []
+  }
+ }
+}

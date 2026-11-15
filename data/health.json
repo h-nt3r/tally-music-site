@@ -1,0 +1,41 @@
+{
+ "bandcamp-daily": {
+  "items": 5,
+  "error": null,
+  "failing": ""
+ },
+ "pitchfork-reviews": {
+  "items": 6,
+  "error": null,
+  "failing": ""
+ },
+ "stereogum": {
+  "items": 24,
+  "error": null,
+  "failing": ""
+ },
+ "the-quietus": {
+  "items": 8,
+  "error": null,
+  "failing": ""
+ },
+ "the-wire": {
+  "items": 0,
+  "error": null,
+  "failing": ""
+ },
+ "fact": {
+  "items": 0,
+  "error": null,
+  "failing": ""
+ },
+ "listenbrainz": {
+  "items": 4425,
+  "error": null,
+  "failing": ""
+ },
+ "musicbrainz": {
+  "items": 62,
+  "error": null
+ }
+}
